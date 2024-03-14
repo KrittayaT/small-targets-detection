@@ -5,3 +5,4 @@ The small targets will be measured using the [COCO evaluation](https://cocodatas
 This project will use 2 different methods to detect small targets
 
 1) DroneDetectron2 refers to this [paper](https://arxiv.org/abs/2303.08747) and this [GitHub repository](https://github.com/akhilpm/DroneDetectron2) for more information.
+2) YoloV8 refers to [GitHub repository](https://github.com/ultralytics/ultralytics)
